@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pratik bhatkulkar</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Blockchain developer from India</h3>
 
 - 💬 Ask me about **React.js, Javascript, PHP, NODE.js, Solidity, **
 
